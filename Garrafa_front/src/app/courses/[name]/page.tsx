@@ -26,6 +26,9 @@ export default function Page({params}: {params: {[key: string]: any}}) {
                     <h1 className={utilStyles.title}>{course.name}</h1>
                 </div>
                 <p>{course.description}</p>
+                <br/>
+                <hr/>
+                <p>{course.content}</p>
                                 
                 <div className={styles.button}>
                     <button className={`${utilStyles.buttonContainer} ${utilStyles.buttonSize2} ${utilStyles.fontMedium}`}>Proximo</button>

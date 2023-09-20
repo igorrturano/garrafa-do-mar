@@ -11,7 +11,7 @@ import styles from './styles.module.css';
  * @prop {string} className?: Classe CSS usada para personalizar o componente.
  * @returns {React.ReactNode} Rodapé formatado.
  */
-export default function Footer({ className = '', mode = 2, home = '/welcome' }: { className?: string, mode?: number, home?: string }): React.ReactNode {
+export default function Footer({ className = '', mode = 2, home = '/' }: { className?: string, mode?: number, home?: string }): React.ReactNode {
     const   footerBg: string = 'footerBg' + mode;
     const   footerStyles: string = `${styles.container} ${styles.content} ${styles.effect}`;
     let     footerIcons: React.ReactNode;
