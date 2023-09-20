@@ -1,0 +1,59 @@
+.container {
+    height: var(--footer-height);
+    max-height: var(--footer-height);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 0;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.effect {
+    background-color: rgba(11, 173, 191, 0);
+    background-repeat: repeat-x;
+    background-size: auto var(--footer-height);
+    background-position: center;
+}
+
+.footerBg1 {
+    padding: 0;
+    background-image: url("/images/footer/footerBg1.svg");
+}
+
+.footerBg2 {
+    padding: 0 35px;
+    background-image: url("/images/footer/footerBg2.svg");
+}
+
+.homeButton {
+    width: 48px;
+    height: 54px;
+    cursor: pointer;
+}
+
+.coursesButton {
+    width: 56px;
+    height: 57px;
+    cursor: pointer;
+}
+
+.tipsButton {
+    width: 45px;
+    height: 58px;
+    cursor: pointer;
+}
+
+.extractsButton {
+    width: 55px;
+    height: 60px;
+    cursor: pointer;
+}

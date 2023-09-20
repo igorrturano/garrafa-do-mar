@@ -1,0 +1,108 @@
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.quizContainer {
+    width: 88.8vw;
+    max-width: 88.8vw;
+    height: 67.9vh;
+    max-height: 67.9vh;
+
+    overflow-y: auto;
+
+    border: 0;
+    border-radius: 9px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); 
+    padding: 14px;
+
+    background-color: #fff;
+    position: absolute;
+    z-index: 1;
+}
+
+.quizContainer p {
+    color: var(--color-1);
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0 15px;
+}
+
+.quizContainer h1 {
+    margin-bottom: 19px;  
+}
+
+.button {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.button button[name="cancelar"] {
+    background-color: #F4AB10;
+}
+
+.img {
+    width: 32px;
+    height: 32px;
+    background-color: var(--color-1);
+    border-radius: 8px;
+    position: absolute;
+    filter: grayscale(100%);
+    opacity: 75%;
+    z-index: 0;
+}
+
+.form input[type="radio"] {
+    
+    opacity: 0;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    z-index: 1;
+}
+
+.form input[type="radio"] {
+    cursor: pointer;
+}
+
+.form input[type="radio"]:checked + .img {
+    filter: grayscale(0%);
+    background-image: url('/images/icons/trueStatus.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 34px;
+    height: 34px;
+}
+
+.form label {
+    margin-left: 44px;
+}
+
+.opt {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    min-height: 34px;
+    margin: 15px 0;
+}
+
+.questionCard {
+    margin: 15px 0;
+}
+
+.questionCard p[id="description"]{
+    margin-bottom: 24px;
+}
+
+.text {
+    color: #0B748C;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

@@ -1,0 +1,30 @@
+.title {
+    margin-right: 90px;
+}
+
+.bubbleIcon {
+    width: 26px;
+    height: 32px;
+    right: 0;
+    margin-right: 49px;
+    bottom: 78%;
+}
+
+.lineIcon {
+    width: 30px;
+    height: 125px;
+    right: 0;
+    bottom: 40%;
+}
+
+.help {
+    color: #C0C0C0;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-right: 140px;
+}
+
+.submitPlus {
+    margin-left: 0;
+}

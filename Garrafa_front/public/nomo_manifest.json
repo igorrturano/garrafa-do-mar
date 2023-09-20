@@ -1,0 +1,16 @@
+{
+    "nomo_manifest_version": "1.0.0",
+    "plugin_id":"app.nomo.garrafanomar",
+    "plugin_name":"Garrafa no Mar",
+    "plugin_version":	"1.0.0",
+    "dependencies":	[],
+    "permissions":	[
+        "nomo.permission.CAMERA",
+        "nomo.permission.SEND_MESSAGE",
+        "nomo.permission.SEND_ASSETS",
+        "nomo.permission.READ_MEDIA",
+        "nomo.permission.DEVICE_FINGERPRINTING",
+        "nomo.permission.SIGN_EVM_TRANSACTION",
+        "nomo.permission.SIGN_EVM_MESSAGE"
+    ]
+}

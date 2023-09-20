@@ -1,0 +1,22 @@
+.bubbleIcon {
+    width: 26px;
+    height: 32px;
+    left: 20px;
+    bottom: 18%;
+}
+
+.lineIcon {
+    width: 30px;
+    height: 125px;
+    right: 0;
+    bottom: 30%
+}
+
+.buttonPlus {
+    font-size: 20px;
+}
+
+.title {
+    position: absolute;
+    top: 16%;
+}
