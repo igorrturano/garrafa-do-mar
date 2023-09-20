@@ -50,6 +50,9 @@ $ yarn start:dev | npm run start:dev
 ## Pitch Presentation
 ```
 https://drive.google.com/file/d/16jk3281dLszQPGU35-hKLo1X3jmD012u/view
+
+Video:
+https://drive.google.com/file/d/1FcLSzaNuKjSEXQfvS8K9RjJtcnP7VtO8/view?usp=sharing
 ```
 
 ## Swagger Documentation
