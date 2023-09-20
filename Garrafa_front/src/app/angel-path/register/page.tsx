@@ -26,7 +26,7 @@ export default function HumanRegister() {
 
     const onFormSubmit = (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-        router.push('/welcome');
+        router.push('/begin');
     }
     return (
         <Layout headerProp={headerProp} mainProp={mainProp} footerProp={footerProp}>
