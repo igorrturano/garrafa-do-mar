@@ -53,7 +53,11 @@ https://docs.google.com/presentation/d/1ELL6Kv4LHwJZwwzZeT9uUNHZdaOYA1bE/edit?us
 ```
 ## App journey
 ```
+older version:
 https://drive.google.com/file/d/1FcLSzaNuKjSEXQfvS8K9RjJtcnP7VtO8/view?usp=sharing
+
+newer version:
+https://drive.google.com/file/d/1ynL3rJ3YvPC8Z2gbQ5xW30WdFy5VxLTb/view?usp=sharing 
 
 ```
 ## Swagger Documentation
