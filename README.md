@@ -51,9 +51,11 @@ $ yarn start:dev | npm run start:dev
 ```
 https://drive.google.com/file/d/16jk3281dLszQPGU35-hKLo1X3jmD012u/view
 
-Video:
-https://drive.google.com/file/d/1FcLSzaNuKjSEXQfvS8K9RjJtcnP7VtO8/view?usp=sharing
 ```
+## App journey
+```
+https://drive.google.com/file/d/1FcLSzaNuKjSEXQfvS8K9RjJtcnP7VtO8/view?usp=sharing
 
+```
 ## Swagger Documentation
 https://garrafa.atitude247.com.br/api
