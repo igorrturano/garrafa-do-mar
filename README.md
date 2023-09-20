@@ -49,8 +49,7 @@ $ yarn start:dev | npm run start:dev
 
 ## Pitch Presentation
 ```
-https://drive.google.com/file/d/16jk3281dLszQPGU35-hKLo1X3jmD012u/view
-
+https://docs.google.com/presentation/d/1ELL6Kv4LHwJZwwzZeT9uUNHZdaOYA1bE/edit?usp=sharing&ouid=116717071862741736842&rtpof=true&sd=true 
 ```
 ## App journey
 ```
