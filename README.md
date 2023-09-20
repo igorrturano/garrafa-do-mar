@@ -47,4 +47,10 @@ $ yarn start:dev | npm run start:dev
 <img src="image.png" alt="qr-code" width="200"/>
 
 
+## Pitch Presentation
+```
+https://drive.google.com/file/d/16jk3281dLszQPGU35-hKLo1X3jmD012u/view
+```
+
 ## Swagger Documentation
+https://garrafa.atitude247.com.br/api
